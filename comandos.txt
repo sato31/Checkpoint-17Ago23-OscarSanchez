@@ -1,0 +1,30 @@
+  498  git clone git@github.com:sato31/Checkpoint-17Ago23-OscarSanchez.git
+  499  cd Checkpoint-17Ago23-OscarSanchez/
+  500  touch main.js
+  501  touch index.html
+  502  git add .
+  503  git status
+  504  git commit -m "commit 01 de OscarSanchezTorres"
+  505  git push origin main
+  506  git branch feature
+  507  git checkout feature
+  508  mkdir Hardware
+  509  mkdir Software
+  510  mkdir SeguridadInformatica
+  511  touch Hardware/resumen.txt
+  512  touch Software/resumen.txt
+  513  touch SeguridadInformatica/resumen.txt
+  514  git status
+  515  git add .
+  516  git status
+  517  git commit -m "commit 02 de OscarSanchezTorres"
+  518  git push origin feature
+  519  git checkout main
+  520  mv main.js resumenHardware.txt
+  521  mv index.html resumenSoftware.txt
+  522  git status
+  523  git add .
+  524  git commit -m "commit 03 de OscarSanchezTorres"
+  525  git push origin main
+  526  touch comandos.txt
+  527  history
