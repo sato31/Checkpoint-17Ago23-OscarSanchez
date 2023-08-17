@@ -1,0 +1,4 @@
+Ejemplos de Software:
+	1. Software de procesador de texto: Microsoft Word
+	2. Software de antivirus: CCleaner
+	3. Software de edición y creación de planos y modelos 3D: AutoCAD

@@ -1,0 +1,4 @@
+Memorias principales de la computadora:
+	1. Memoria RAM (Random Access Memory)
+	2. Memoria ROM (Read Only Memory)
+	3. Memoria Caché
